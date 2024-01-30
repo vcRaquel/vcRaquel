@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 Atualmente estou trabalhando com backend Java e Kotlin
-- 📖 Atualmente estou aprendendo frontend e segurança cibernética
+- 📖 Atualmente estou aprendendo frontend e ciber segurança 
 - 👯 Procuro colaborar no ensino de programação para escolas públicas
 - 💬 Pergunte-me sobre Pedagogia, Java, Kotlin
 - 📫 Como entrar em contato comigo: Linkedin (o link está aqui no meu perfil) ou email: vc.raquel@gmail.com
